@@ -25,13 +25,13 @@
                <key>metadata</key>
                <dict>
                   <key>bundle-identifier</key>
-                  <string>com.nianticlabs.pokemongo</string>
+                  <string>com.hammerandchisel.discord</string>
                   <key>bundle-version</key>
-                  <string>1</string>
+                  <string>179</string>
                   <key>kind</key>
                   <string>software</string>
                   <key>title</key>
-                  <string>PokmonGO</string>
+                  <string>Beefcord</string>
                </dict>
             </dict>
          </array>
